@@ -1,0 +1,6 @@
+PyQt5>=5.15.0
+requests>=2.25.0
+PyYAML>=5.4.0
+Pillow>=8.0.0
+anthropic>=0.13.0
+aiohttp>=3.8.0
